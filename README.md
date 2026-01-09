@@ -56,7 +56,7 @@ Academic project developed as part of university coursework.
   <img 
     src="https://github.com/user-attachments/assets//372aea8b-1b8e-4421-a48f-de37cd059060"
     width="250"/>
-    <img src="https://github.com/user-attachments/assets//c90ab5-e874-4aca-9da2-22bc078795ae"
+    <img src="https://github.com/user-attachments/assets//f033f6ce-01dd-413b-a607-6bc783f627b9"
     width="250"/>
     <img src="https://github.com/user-attachments/assets//92350eb7-3d48-4732-b119-ae202bad751e"
     width="250"/>
