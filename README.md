@@ -18,8 +18,9 @@ Academic project developed as part of university coursework.
 ### Login
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/d395945a-acc9-4712-9654-d2bbd6d99b4"
+    src="https://github.com/user-attachments/assets//65b178b2-9639-49ac-bc53-73cf9cf2d3a3"
     width="300"
   />
 </p>
+
 
