@@ -24,7 +24,9 @@ Academic project developed as part of university coursework.
     <img src="https://github.com/user-attachments/assets//8d5f4afe-ac29-4646-aba3-153ea145d775"
     width="250"/>
 </p>
+
 ## Authentication
+
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets//65b178b2-9639-49ac-bc53-73cf9cf2d3a3"
