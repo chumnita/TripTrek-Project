@@ -1,5 +1,4 @@
 # TripTrek – Travel Planning App
-Full-stack travel planning application built as an academic project using Vue.js and Laravel. Features include authentication, dashboard, destination discovery, travel journal, and frontend–backend API integration.
 **Role:** Full-Stack Web & App Developer (Academic Project)
 ## Tech Stack
 - Frontend: Vue.js
