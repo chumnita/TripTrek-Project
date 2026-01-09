@@ -22,7 +22,7 @@ Academic project developed as part of university coursework.
     src="https://github.com/user-attachments/assets//08b3187f-35e2-4f84-887a-3961d72fd3c5"
     width="250"
     src="https://github.com/user-attachments/assets//8d5f4afe-ac29-4646-aba3-153ea145d775"
-    width="250"
+    width="250"/>
 </p>
 ## Authentication
 <p align="center">
